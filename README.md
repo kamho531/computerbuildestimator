@@ -1,1 +1,2 @@
-# computerbuildestimator
+# Computer Build Estimator
+Computer Build Estimator is an Android app which will provide an cost estimate of building users' own desktop computer. Users can pick a preset budget level in which a combination of several computer components have been pre-determined or choose the custom level in which users can check their own combinations. After inputting with prices for other components, simply accept it and a breakdown of the total cost will be displayed on the first screen.
